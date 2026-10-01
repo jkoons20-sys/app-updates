@@ -1,5 +1,5 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "notes": "Address autocomplete on From/To, GPX export fixed"
+  "versionCode": 16,
+  "versionName": "1.15",
+  "notes": "Street photos pre-fetch on route generate, delete trips"
 }
