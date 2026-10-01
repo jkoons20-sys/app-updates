@@ -1,1 +1,6 @@
-{"versionCode": 17, "versionName": "1.16", "notes": "Get SKC dialog for EEPROM dumps: view, change and verify the SKC in a 512B 24C04 dump"}
+{
+  "versionCode": 18,
+  "versionName": "1.17",
+  "apk": "EDC15-Patch-v1.17-18.apk.b64",
+  "notes": "7 new patches: N18 EGR brake, Dual brake (N18+N75), Hot start fix, Rev limiter (adjustable), Glow plug duration, ASV delete, Shift light"
+}
