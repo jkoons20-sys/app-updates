@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
+  "versionCode": 29,
+  "versionName": "1.28",
   "apk": "MotoRide-latest.apk.b64",
-  "notes": "Route video now reports the map tile result on every render (success or fail)."
+  "notes": "Map tile report now stays on the planner page under the buttons, not just a toast."
 }
