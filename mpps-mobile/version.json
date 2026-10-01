@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.44",
-  "file": "MPPSMobile-v1.44-45.apk.b64",
-  "notes": "Auto-connect when the cable is detected, closes after 5 s with no cable, in-app self-updater, Copy log button."
+  "versionCode": 46,
+  "versionName": "1.45",
+  "file": "MPPSMobile-v1.45-46.apk.b64",
+  "notes": "v1.45: single hot-plug auto-connect path (no double trigger on replug), link closes cleanly on cable unplug, update check runs on every open (quiet unless an update is available)"
 }
