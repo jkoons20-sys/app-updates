@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
+  "versionCode": 35,
+  "versionName": "1.34",
   "apk": "RoamTrip-latest.apk.b64",
-  "notes": "Renamed to RoamTrip — day trips and multi-day road trips in cars and motorcycles."
+  "notes": "No maps on route videos (dark schematic again); Bikes tab is now Vehicles, Rides tab is now Trips; bigger tab buttons; altimeter on the Dash."
 }
