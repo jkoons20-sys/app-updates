@@ -1,5 +1,1 @@
-{
-  "versionCode": 18,
-  "versionName": "1.17",
-  "notes": "Fixed street-view photo parsing (escaped URLs)"
-}
+{"versionCode":19,"versionName":"1.18","apk":"MotoRide-latest.apk.b64","notes":"Route planner + map-background videos + current-location start"}
