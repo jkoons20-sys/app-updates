@@ -1,1 +1,1 @@
-{"versionCode":24,"versionName":"1.23","apk":"MotoRide-latest.apk.b64","notes":"Route planner: street-photo strip under the preview — 12 photos along the route, first pinned near the start, last near the destination."}
+{"versionCode":25,"versionName":"1.24","apk":"MotoRide-latest.apk.b64","notes":"Route video: hardened map-tile fetch — parallel downloads, per-tile retry, missing tiles filled instead of killing the map, zoom steps down for huge routes."}
