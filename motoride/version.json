@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.30",
+  "versionCode": 32,
+  "versionName": "1.31",
   "apk": "MotoRide-latest.apk.b64",
-  "notes": "Map tiles: instant failover to the next server on rate-limit instead of waiting."
+  "notes": "Route video map now undistorted (straight-on). Bigger planner buttons. Vehicles can be cars or motorcycles."
 }
