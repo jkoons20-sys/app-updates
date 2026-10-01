@@ -1,5 +1,5 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "notes": "Street photos pre-fetch on route generate, delete trips"
+  "versionCode": 17,
+  "versionName": "1.16",
+  "notes": "Fixed route parse crash (braces inside polyline)"
 }
