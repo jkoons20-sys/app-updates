@@ -1,4 +1,1 @@
-{
-  "versionCode": 22,
-  "versionName": "1.21"
-}
+{"versionCode":23,"versionName":"1.22","apk":"MotoRide-latest.apk.b64","notes":"Fix route parser reading the first maneuver step instead of the whole route (0.2-mi bug); stale-preview clearing + endpoint diagnostics from v1.21 kept."}
