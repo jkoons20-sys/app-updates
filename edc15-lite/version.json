@@ -1,1 +1,5 @@
-eyJub3RlcyI6IlZOVCBWYW5lIFRlc3QgKEJhc2ljIFNldHRpbmdzIDAxMSksIHNlbGYtdXBkYXRlciIsInZlcnNpb25Db2RlIjozNywidmVyc2lvbk5hbWUiOiIyLjE4In0=
+{
+  "versionCode": 38,
+  "versionName": "2.19",
+  "notes": "Comms Debug raw communication trace"
+}
