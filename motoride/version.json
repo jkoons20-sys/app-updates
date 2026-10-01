@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
+  "versionCode": 30,
+  "versionName": "1.29",
   "apk": "MotoRide-latest.apk.b64",
-  "notes": "Map tile report now stays on the planner page under the buttons, not just a toast."
+  "notes": "Map tiles: polite fetching (2 threads, pauses, 429 backoff) + third tile server fallback."
 }
