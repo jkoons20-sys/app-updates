@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31",
+  "versionCode": 33,
+  "versionName": "1.32",
   "apk": "MotoRide-latest.apk.b64",
-  "notes": "Route video map now undistorted (straight-on). Bigger planner buttons. Vehicles can be cars or motorcycles."
+  "notes": "Road trip update: vehicle picker on planner, multi-day manual trips, fuel stops + hotels along route via Overpass."
 }
