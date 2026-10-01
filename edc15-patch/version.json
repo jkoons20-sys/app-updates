@@ -1,1 +1,1 @@
-{"versionCode": 15, "versionName": "1.14", "notes": "Removed Experimental menus; EEPROM section (immo + SKC)"}
+{"versionCode": 16, "versionName": "1.15", "notes": "EEPROM mods: odometer, VIN edit, immo on/off, EEPROM info; immo-off accepts 0x53/0x73"}
