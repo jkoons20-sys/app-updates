@@ -1,1 +1,1 @@
-{"versionCode": 16, "versionName": "1.15", "notes": "EEPROM mods: odometer, VIN edit, immo on/off, EEPROM info; immo-off accepts 0x53/0x73"}
+{"versionCode": 17, "versionName": "1.16", "notes": "Get SKC dialog for EEPROM dumps: view, change and verify the SKC in a 512B 24C04 dump"}
