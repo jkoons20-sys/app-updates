@@ -1,1 +1,6 @@
-{"versionCode":25,"versionName":"1.24","apk":"MotoRide-latest.apk.b64","notes":"Route video: hardened map-tile fetch — parallel downloads, per-tile retry, missing tiles filled instead of killing the map, zoom steps down for huge routes."}
+{
+  "versionCode": 26,
+  "versionName": "1.25",
+  "apk": "MotoRide-latest.apk.b64",
+  "notes": "Route video map: dual tile hosts (osm.org + osm.de fallback) with on-device diagnostic reporting the exact tile failure."
+}
