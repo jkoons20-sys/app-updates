@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
-  "apk": "EDC15-Patch-v1.17-18.apk.b64",
-  "notes": "7 new patches: N18 EGR brake, Dual brake (N18+N75), Hot start fix, Rev limiter (adjustable), Glow plug duration, ASV delete, Shift light"
+  "versionCode": 19,
+  "versionName": "1.18",
+  "apk": "EDC15-Patch-v1.18-19.apk.b64",
+  "notes": "PTO idle trim (SET tap +50 RPM), cold fast-idle option, IO outputs (shift light / water-meth / aux + bench-only vane exercise), worksite RPM limiter. Note: PTO idle and IO outputs can't be combined."
 }
