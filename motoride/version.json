@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.32",
-  "apk": "MotoRide-latest.apk.b64",
-  "notes": "Road trip update: vehicle picker on planner, multi-day manual trips, fuel stops + hotels along route via Overpass."
+  "versionCode": 34,
+  "versionName": "1.33",
+  "apk": "RoamTrip-latest.apk.b64",
+  "notes": "Renamed to RoamTrip — day trips and multi-day road trips in cars and motorcycles."
 }
