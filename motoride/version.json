@@ -1,5 +1,5 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "notes": "Osmdroid map engine (no native code). Fixed startup crash. Auto safe mode + debug prompt on startup failure."
+  "versionCode": 13,
+  "versionName": "1.12",
+  "notes": "Tab-bar fix, street-view photos in ride videos"
 }
