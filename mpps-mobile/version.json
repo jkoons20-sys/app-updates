@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.46",
-  "file": "MPPSMobile-v1.46-47.apk.b64",
-  "notes": "v1.46: CRACKED handshake crypto \u2014 9B generated fresh from dongle challenge bytes (C0 90 reads XOR keystream), 2B/6B computed live instead of replayed. This is the one that should finally get the 4-byte challenge back."
+  "versionCode": 48,
+  "versionName": "1.47",
+  "file": "MPPSMobile-v1.47-48.apk.b64",
+  "notes": "v1.47 DIAGNOSTIC: HS1 uses K/C-guess 6B tail, HS2 uses ZERO tail \u2014 testing if the dongle verifies the 6B tail at all. Also adds 800ms post-handshake delay (genuine timing) before identify."
 }
