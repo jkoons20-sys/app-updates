@@ -1,0 +1,6 @@
+{
+  "versionCode": 45,
+  "versionName": "1.44",
+  "file": "MPPSMobile-v1.44-45.apk.b64",
+  "notes": "Auto-connect when the cable is detected, closes after 5 s with no cable, in-app self-updater, Copy log button."
+}
