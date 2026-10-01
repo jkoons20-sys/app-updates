@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.11",
-  "file": "VehicleFuelTracker-v1.11-14.apk.b64",
-  "notes": "Test of the self-updater: adds a small version label in the header (v1.11)."
+  "versionCode": 15,
+  "versionName": "1.12",
+  "file": "VehicleFuelTracker-v1.12-15.apk.b64",
+  "notes": "Update check now runs on every open (quiet unless an update is available)."
 }
