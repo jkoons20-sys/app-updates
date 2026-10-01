@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.12",
-  "file": "VehicleFuelTracker-v1.12-15.apk.b64",
-  "notes": "Update check now runs on every open (quiet unless an update is available)."
+  "versionCode": 16,
+  "versionName": "1.13",
+  "file": "VehicleFuelTracker-v1.13-16.apk.b64",
+  "notes": "Update notifications: if notifications are allowed for the app, new versions also push a notification (tap it to open the app and install)."
 }
