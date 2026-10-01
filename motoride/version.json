@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.29",
+  "versionCode": 31,
+  "versionName": "1.30",
   "apk": "MotoRide-latest.apk.b64",
-  "notes": "Map tiles: polite fetching (2 threads, pauses, 429 backoff) + third tile server fallback."
+  "notes": "Map tiles: instant failover to the next server on rate-limit instead of waiting."
 }
