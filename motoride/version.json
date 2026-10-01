@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
+  "versionCode": 27,
+  "versionName": "1.26",
   "apk": "MotoRide-latest.apk.b64",
-  "notes": "Route video map: dual tile hosts (osm.org + osm.de fallback) with on-device diagnostic reporting the exact tile failure."
+  "notes": "Self-updater now checks on EVERY app open (was once/day) and reads the installed version automatically \u2014 no more missed update prompts."
 }
