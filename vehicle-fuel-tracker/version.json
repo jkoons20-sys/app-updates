@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.13",
-  "file": "VehicleFuelTracker-v1.13-16.apk.b64",
-  "notes": "Update notifications: if notifications are allowed for the app, new versions also push a notification (tap it to open the app and install)."
+  "versionCode": 18,
+  "versionName": "1.15",
+  "file": "VehicleFuelTracker-v1.15-18.apk.b64",
+  "notes": "Sync alerts: when the other phone adds an entry, this phone pushes a notification (tap opens History). Now also checks about once an hour even with the app closed."
 }
