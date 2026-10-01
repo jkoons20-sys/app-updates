@@ -1,5 +1,5 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
-  "notes": "Fixed route parse crash (braces inside polyline)"
+  "versionCode": 18,
+  "versionName": "1.17",
+  "notes": "Fixed street-view photo parsing (escaped URLs)"
 }
