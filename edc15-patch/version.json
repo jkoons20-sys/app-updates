@@ -1,1 +1,1 @@
-eyJub3RlcyI6IkZpeGVkIHN0YXJ0dXAgY3Jhc2ggKHBhdGNoQ2FyZHMgYXJyYXkgd2FzIHRvbyBzbWFsbCkiLCJ2ZXJzaW9uQ29kZSI6MTMsInZlcnNpb25OYW1lIjoiMS4xMiJ9
+{"versionCode": 14, "versionName": "1.13", "notes": "Fixed startup crash (null card slots 3-6)"}
