@@ -1,5 +1,5 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "notes": "Tab-bar fix, street-view photos in ride videos"
+  "versionCode": 14,
+  "versionName": "1.13",
+  "notes": "Address lookup now auto-retries (FM2859 -> FM 2859)"
 }
