@@ -1,1 +1,1 @@
-{"versionCode": 14, "versionName": "1.13", "notes": "Fixed startup crash (null card slots 3-6)"}
+{"versionCode": 15, "versionName": "1.14", "notes": "Removed Experimental menus; EEPROM section (immo + SKC)"}
