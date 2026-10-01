@@ -1,0 +1,6 @@
+{
+  "versionCode": 13,
+  "versionName": "1.10",
+  "file": "VehicleFuelTracker-v1.10-13.apk.b64",
+  "notes": "Self-updater: the app now checks for new versions on its own (Sync screen > Check for updates, plus a daily auto-check). Future updates download and install without a chat link."
+}
