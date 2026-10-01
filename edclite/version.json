@@ -1,5 +1,1 @@
-{
-  "versionCode": 37,
-  "versionName": "2.18",
-  "notes": "New: DTC disable (file) for EDC15 512KB flashes \u2014 on/off switch per code with VAG 5-digit reference, checksum fix, save-as; Comms Debug screen showing the raw TX/RX trace (demo + KKL cable)"
-}
+{"versionCode":38,"versionName":"2.19","notes":"Keep-alive restored: fault codes and live data stay connected"}
