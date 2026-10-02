@@ -1,1 +1,4 @@
-{"versionCode":40,"versionName":"2.21","notes":"USB stall recovery: clearHalt + retry on read/write errors"}
+{
+  "versionCode": 41,
+  "versionName": "2.22"
+}
