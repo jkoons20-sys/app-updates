@@ -1,5 +1,6 @@
 {
-  "version_code": 115,
-  "version_name": "v1.15",
-  "zip": "EDC15-Patch-v1.15-update.zip"
+  "version_code": 116,
+  "version_name": "v1.16",
+  "zip": "EDC15-Patch-v1.16-update.zip",
+  "notes": "Experimental: throttle+brake multimap switch (ek9 routine); multimap warns about auto-transmission codeblocks (ASR/ESP faults)"
 }
