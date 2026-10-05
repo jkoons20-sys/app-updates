@@ -1,6 +1,6 @@
 {
-  "version_code": 125,
-  "version_name": "3.6",
-  "apk": "EDC-lite-v3.6-125.apk.b64",
-  "notes": "Fault codes buttons no longer hidden under system nav bar."
+  "version_code": 126,
+  "version_name": "3.7",
+  "apk": "EDC-lite-v3.7-126.apk.b64",
+  "notes": "Dash panel keeps screen on."
 }
