@@ -1,5 +1,6 @@
 {
-  "version_code": 118,
-  "version_name": "2.99",
-  "apk": "EDC-lite-v2.99-118.apk.b64"
+  "version_code": 119,
+  "version_name": "3.0",
+  "apk": "EDC-lite-v3.0-119.apk.b64",
+  "notes": "Dash: metric/imperial switch, double-tap to edit, two-finger move, pinch resize. Layouts mirrored across demo/KKL/K-line BT per generation; generic BT dash separate."
 }
