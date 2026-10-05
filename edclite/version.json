@@ -1,6 +1,6 @@
 {
-  "version_code": 123,
-  "version_name": "3.4",
-  "apk": "EDC-lite-v3.4-123.apk.b64",
-  "notes": "Live Data buttons fixed (shorter labels, hint on own row). EGT toggle present in all versions."
+  "version_code": 124,
+  "version_name": "3.5",
+  "apk": "EDC-lite-v3.5-124.apk.b64",
+  "notes": "EGT switch removed from Play Store version only."
 }
