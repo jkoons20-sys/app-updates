@@ -1,6 +1,6 @@
 {
-  "version_code": 121,
-  "version_name": "3.2",
-  "apk": "EDC-lite-v3.2-121.apk.b64",
-  "notes": "Dash panels: swipe left/right between panels, + Panel button, no vertical scroll."
+  "version_code": 122,
+  "version_name": "3.3",
+  "apk": "EDC-lite-v3.3-122.apk.b64",
+  "notes": "Dash panels: - Panel button to remove panels (with confirmation)."
 }
