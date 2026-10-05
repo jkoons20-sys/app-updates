@@ -1,6 +1,6 @@
 {
-  "version_code": 124,
-  "version_name": "3.5",
-  "apk": "EDC-lite-v3.5-124.apk.b64",
-  "notes": "EGT switch removed from Play Store version only."
+  "version_code": 125,
+  "version_name": "3.6",
+  "apk": "EDC-lite-v3.6-125.apk.b64",
+  "notes": "Fault codes buttons no longer hidden under system nav bar."
 }
