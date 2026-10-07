@@ -1,6 +1,6 @@
 {
-  "version_code": 20,
-  "version_name": "1.19",
-  "apk": "crowder-truck-tracker-1.19.apk.b64",
-  "notes": "Receipt scan: added missing ML Kit component registrars to manifest"
+  "version_code": 21,
+  "version_name": "1.20",
+  "apk": "crowder-truck-tracker-1.20.apk.b64",
+  "notes": "Receipt scan: added missing androidx.collection stubs (ArraySet/ArrayMap/LruCache)"
 }
