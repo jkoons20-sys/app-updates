@@ -1,6 +1,6 @@
 {
-  "version_code": 23,
-  "version_name": "1.22",
-  "apk": "crowder-truck-tracker-1.22.apk.b64",
-  "notes": "Receipt scan: fixed gallons parsing for '10.5X (GAL)' and 'GALLONS 33.1820' formats"
+  "version_code": 24,
+  "version_name": "1.23",
+  "apk": "crowder-truck-tracker-1.23.apk.b64",
+  "notes": "Receipt scan: gallons label pattern now works across line breaks"
 }
