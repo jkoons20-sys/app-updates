@@ -1,6 +1,6 @@
 {
-  "version_code": 26,
-  "version_name": "1.25",
-  "apk": "crowder-truck-tracker-1.25.apk.b64",
-  "notes": "Receipt scan: price/gal pattern for '$ X / GAL' format + view scanned text button"
+  "version_code": 27,
+  "version_name": "1.26",
+  "apk": "crowder-truck-tracker-1.26.apk.b64",
+  "notes": "Receipt scan: fixed total detection for column-order OCR (was picking up tax)"
 }
