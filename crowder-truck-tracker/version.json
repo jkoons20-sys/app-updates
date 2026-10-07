@@ -1,6 +1,6 @@
 {
-  "version_code": 16,
-  "version_name": "1.15",
-  "apk": "crowder-truck-tracker-1.15.apk.b64",
-  "notes": "Scan failures are saved to the crash log for diagnosis"
+  "version_code": 17,
+  "version_name": "1.16",
+  "apk": "crowder-truck-tracker-1.16.apk.b64",
+  "notes": "Backup & restore is back in the Reports hub"
 }
