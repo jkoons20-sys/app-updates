@@ -1,6 +1,6 @@
 {
-  "version_code": 22,
-  "version_name": "1.21",
-  "apk": "crowder-truck-tracker-1.21.apk.b64",
-  "notes": "Receipt scan: added androidx.core.os stubs (ConfigurationCompat/LocaleListCompat)"
+  "version_code": 23,
+  "version_name": "1.22",
+  "apk": "crowder-truck-tracker-1.22.apk.b64",
+  "notes": "Receipt scan: fixed gallons parsing for '10.5X (GAL)' and 'GALLONS 33.1820' formats"
 }
