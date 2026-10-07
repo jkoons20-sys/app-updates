@@ -1,6 +1,6 @@
 {
-  "version_code": 18,
-  "version_name": "1.17",
-  "apk": "crowder-truck-tracker-1.17.apk.b64",
-  "notes": "Receipt scan fixed (missing javax.inject), crash log text readable in dark mode"
+  "version_code": 19,
+  "version_name": "1.18",
+  "apk": "crowder-truck-tracker-1.18.apk.b64",
+  "notes": "Receipt scan: bypass ML Kit telemetry that crashed on-device"
 }
