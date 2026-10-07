@@ -1,6 +1,6 @@
 {
-  "version_code": 11,
-  "version_name": "1.10",
-  "apk": "crowder-truck-tracker-1.10.apk.b64",
-  "notes": "Misc expenses added as a dash tile metric"
+  "version_code": 13,
+  "version_name": "1.12",
+  "apk": "crowder-truck-tracker-1.12.apk.b64",
+  "notes": "Fixed crash when scanning receipts (downsampled images), real version display, crash log viewer, update prompt once per version"
 }
