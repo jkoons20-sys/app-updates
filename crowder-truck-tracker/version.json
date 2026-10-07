@@ -1,6 +1,6 @@
 {
-  "version_code": 17,
-  "version_name": "1.16",
-  "apk": "crowder-truck-tracker-1.16.apk.b64",
-  "notes": "Backup & restore is back in the Reports hub"
+  "version_code": 18,
+  "version_name": "1.17",
+  "apk": "crowder-truck-tracker-1.17.apk.b64",
+  "notes": "Receipt scan fixed (missing javax.inject), crash log text readable in dark mode"
 }
