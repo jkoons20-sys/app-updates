@@ -1,6 +1,6 @@
 {
-  "version_code": 7,
-  "version_name": "1.6",
-  "apk": "crowder-truck-tracker-1.6.apk.b64",
-  "notes": "Dash panel with customizable gauges/meters on home, 30/60/90-day MPG averages, partial fill-up MPG fix, GitHub auto-update"
+  "version_code": 8,
+  "version_name": "1.7",
+  "apk": "crowder-truck-tracker-1.7.apk.b64",
+  "notes": "Home is now the gauge dash, Full/Partial toggle buttons, receipt scanning with OCR"
 }
