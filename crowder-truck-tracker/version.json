@@ -1,6 +1,6 @@
 {
-  "version_code": 28,
-  "version_name": "1.27",
-  "apk": "crowder-truck-tracker-1.27.apk.b64",
-  "notes": "Receipt scan: total now uses PAID amount (incl. tax) when available"
+  "version_code": 29,
+  "version_name": "1.28",
+  "apk": "crowder-truck-tracker-1.28.apk.b64",
+  "notes": "What's New dialog on open (once per version)"
 }
