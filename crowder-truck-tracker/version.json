@@ -1,6 +1,6 @@
 {
-  "version_code": 25,
-  "version_name": "1.24",
-  "apk": "crowder-truck-tracker-1.24.apk.b64",
-  "notes": "Fuel form: auto-calculates the third field when any two of gallons/price/total are entered"
+  "version_code": 26,
+  "version_name": "1.25",
+  "apk": "crowder-truck-tracker-1.25.apk.b64",
+  "notes": "Receipt scan: price/gal pattern for '$ X / GAL' format + view scanned text button"
 }
