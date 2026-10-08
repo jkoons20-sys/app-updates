@@ -1,6 +1,6 @@
 {
-  "version_code": 29,
-  "version_name": "1.28",
-  "apk": "crowder-truck-tracker-1.28.apk.b64",
-  "notes": "What's New dialog on open (once per version)"
+  "version_code": 33,
+  "version_name": "1.32",
+  "apk": "crowder-truck-tracker-1.32.apk.b64",
+  "notes": "Fuel auto-calc fix, Miles+CPM in history, dash add/delete gauges, fuel history sorted by mileage"
 }
