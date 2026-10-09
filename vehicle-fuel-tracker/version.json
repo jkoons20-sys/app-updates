@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.16",
-  "file": "VehicleFuelTracker-v1.16-19.apk.b64",
-  "notes": "Background sync check tightened to about every 15 minutes, so the other phone hears about new entries much sooner."
+  "version_code": 20,
+  "version_name": "1.17",
+  "apk": "VehicleFuelTracker-v1.17-20.apk.b64",
+  "notes": "History now shows miles between fill-ups and MPG per fill-up. Total auto-calculates when gallons and price are entered."
 }
