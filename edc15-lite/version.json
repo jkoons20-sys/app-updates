@@ -1,5 +1,5 @@
 {
-  "versionCode": 71,
-  "versionName": "2.52",
-  "notes": "RAM Execute via diagnostics: upload any binary to ECU RAM and run it (0x34/0x36/0x31). ECU EEPROM tool: immo status shown read-only, immo bytes write-protected."
+  "versionCode": 72,
+  "versionName": "2.53",
+  "notes": "RAM Execute now shows the security-access seed and key after running."
 }
