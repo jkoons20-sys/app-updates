@@ -1,5 +1,5 @@
 {
-  "versionCode": 70,
-  "versionName": "2.51",
-  "notes": "ECU EEPROM dump/write for EDC15 (kw1281test port) \u2014 new ECU EEPROM button on the engine screen"
+  "versionCode": 71,
+  "versionName": "2.52",
+  "notes": "RAM Execute via diagnostics: upload any binary to ECU RAM and run it (0x34/0x36/0x31). ECU EEPROM tool: immo status shown read-only, immo bytes write-protected."
 }
