@@ -1,5 +1,5 @@
 {
-  "versionCode": 38,
-  "versionName": "2.19",
-  "notes": "Comms Debug raw communication trace"
+  "versionCode": 70,
+  "versionName": "2.51",
+  "notes": "ECU EEPROM dump/write for EDC15 (kw1281test port) \u2014 new ECU EEPROM button on the engine screen"
 }
