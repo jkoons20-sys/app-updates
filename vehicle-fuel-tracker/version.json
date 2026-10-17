@@ -1,6 +1,6 @@
 {
-  "version_code": 21,
-  "version_name": "1.18",
-  "apk": "VehicleFuelTracker-v1.18-21.apk.b64",
-  "notes": "MPG now calculated correctly between full tanks (partial gallons count toward the next full fill). Partial fills no longer show MPG. Full/Partial are now buttons on the fuel form."
+  "versionCode": 22,
+  "versionName": "1.19",
+  "file": "VehicleFuelTracker-v1.19-22.apk.b64",
+  "notes": "History: miles and MPG now show only on FULL tanks - partial fill-ups roll into the next full tank's segment."
 }
