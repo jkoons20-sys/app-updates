@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.19",
-  "file": "VehicleFuelTracker-v1.19-22.apk.b64",
-  "notes": "History: miles and MPG now show only on FULL tanks - partial fill-ups roll into the next full tank's segment."
+  "versionCode": 23,
+  "versionName": "1.20",
+  "file": "VehicleFuelTracker-v1.20-23.apk.b64",
+  "notes": "Update-check fix: the app now compares against its real installed version (it was stuck thinking it was v1.18, so it kept offering the same update). Plus: history miles/MPG show only on FULL tanks."
 }
