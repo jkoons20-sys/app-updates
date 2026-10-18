@@ -1,6 +1,6 @@
 {
-  "version_code": 21,
-  "version_name": "1.20",
-  "apk": "EDC15-Patch-v1.20-21.apk.b64",
-  "notes": "Added Checksum disable patch card"
+  "version_code": 22,
+  "version_name": "1.21",
+  "apk": "EDC15-Patch-v1.21-22.apk.b64",
+  "notes": "Patches now available on 038906012FA and 038906012FK files: multimap switch (new - the added map slots are filled from your file's own manual block), launch control, lope idle, PTO idle, IO outputs / IO remap, shift light, ASV delete, DTC off and checksum disable. The N75 family (inversion, deep idle, fast warmup) works on FA; on FK those maps have a different shape so they stay off. Flash immo-off stays FD-only - its location on FA/FK is unknown. EEPROM immo-off already worked on every ECU. Nothing changed for 038906012FD files."
 }
