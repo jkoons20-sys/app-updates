@@ -1,0 +1,6 @@
+{
+  "version_code": 1,
+  "version_name": "1.0",
+  "apk": "ChecksumDisable-v1.0-1.apk.b64",
+  "notes": "Initial release: EDC15 checksum disable via pattern matching"
+}

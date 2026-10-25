@@ -1,0 +1,6 @@
+{
+  "version_code": 34,
+  "version_name": "1.33",
+  "apk": "crowder-truck-tracker-1.33.apk.b64",
+  "notes": "Fuel history: Miles now show only on FULL tanks - the whole segment since the previous full tank, partials included."
+}
